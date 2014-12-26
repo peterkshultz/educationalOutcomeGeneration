@@ -1,7 +1,17 @@
-educationalOutcomes
-============================
 
-A Python program with a Tkinter GUI that takes family income, SAT score, high school GPA, tuition costs, and aid rewards as input. A weighted average algorithm outputs predicted college GPA, college earnings, months needed to acquire first degree, and annual income after graduation.
+1. Download all files in the GitHub repository 
 
-Created as a final project for EECS 183 at the University of Michigan. Contributors to original repository: Anna Hayman, Sam Freedman, and Sagar Singichetti. Data taken from the National Center for Educational Statistics's 2008 Baccalaureate and Beyond Longitudinal Study
 
+2. Open main.py in a Python IDE 
+
+
+3. Run main.py
+
+
+4. Input attributes into the GUI
+
+
+5. After inputting attributes, click the "Run Statistical Analysis" button.
+
+
+6. This will display the predictions based on the inputs you have given.
